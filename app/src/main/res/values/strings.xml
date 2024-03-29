@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyStatus</string>
+    <string name="ram_used">RAM Used</string>
+    <string name="image_desc">image</string>
+    <string name="dsa_course">DSA Course</string>
+    <string name="geeks_for_geeks">Geeks for Geeks</string>
+</resources>
