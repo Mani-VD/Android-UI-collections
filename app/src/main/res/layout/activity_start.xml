@@ -22,7 +22,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textColor="@color/white"
-            android:text="Swipe to refresh"
+            android:text="@string/swipe_to_refresh"
             tools:ignore="MissingClass" />
     </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
 <ScrollView
@@ -93,7 +93,8 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="28dp"
             android:layout_marginEnd="199dp"
-            android:src="@mipmap/ic_launcher" />
+            android:src="@mipmap/ic_launcher"
+            android:contentDescription="@string/google_icon" />
 
                 <TextView
             android:id="@+id/tv_speech_to_text"
@@ -103,7 +104,7 @@
             android:layout_marginTop="44dp"
             android:textSize="30sp"
             android:padding="10dp"
-            android:text="Tap Mic to speak"
+            android:text="@string/tap_mic_to_speak"
             />
 
 

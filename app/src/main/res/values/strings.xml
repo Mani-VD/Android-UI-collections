@@ -4,4 +4,8 @@
     <string name="image_desc">image</string>
     <string name="dsa_course">DSA Course</string>
     <string name="geeks_for_geeks">Geeks for Geeks</string>
+    <string name="refreshed">Refreshed</string>
+    <string name="tap_mic_to_speak">Tap Mic to speak</string>
+    <string name="swipe_to_refresh">Swipe to refresh</string>
+    <string name="google_icon">Google Icon</string>
 </resources>
